@@ -5,8 +5,7 @@ git clone https://github.com/haoming-p/MOL-project.git
 npm run install-all
 
 3. start frontend and backend  
-both: npm run dev  
-frontend only: npm start frontend  
-backend only: npm start backend  
+npm run start-backend / cd backend -> npm start  
+npm run start-frontend / cd frontend -> npm start
 
 

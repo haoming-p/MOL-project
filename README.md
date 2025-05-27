@@ -10,7 +10,7 @@
 - cd ..
 - cd frontend
 - cp .env.example .env
-- cd ..
+- cd ..  
 
 4. start frontend and backend  
 - npm run start-backend / cd backend -> npm start  
